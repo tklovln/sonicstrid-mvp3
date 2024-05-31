@@ -1,8 +1,9 @@
 # SonicStride
 
-An interactive music app.
+An interactive music app that generates music controlled through mobile sensors.
+[Demo Video](https://youtu.be/oWp-UUDRh5Q)
 
-## Help
+## Dev
 * `main.dart`: root file of the project.
 * `endpoint` folder: backend API
 * All UI widget are implemented under `NewUIPages` folder, each .dart file belongs to one page.
